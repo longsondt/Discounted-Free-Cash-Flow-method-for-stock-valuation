@@ -14,7 +14,7 @@
  - This calculator can:  
  1. Grab all the financial statement data available on Yahoo! Finance automatically for the user using Yahoo! Finance's API.
  2. Calculate all the financial rates by itself, or ask the user for their preferred rates, including cost of debt, cost of equity (CAPM), cost of capital (WACC), etc.
- 3. Handle any misinput from the user without breaking or requiring the restarting the program 
+ 3. Handle any invalid input from the user without breaking or requiring the restarting the program 
  
  ## Some limitations of this calculator...
  __1. It will not work on some tickers__

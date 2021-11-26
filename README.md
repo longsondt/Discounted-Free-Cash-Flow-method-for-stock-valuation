@@ -12,7 +12,7 @@
  
  ## Features
  - This calculator can:  
- 1. Find out the projected free cash flow based on historical financial data using the latest fundamental financial data provided by Yahoo! Finance's API
+ 1. Grab all the financial statement data available on Yahoo! Finance automatically for the user using Yahoo! Finance's API.
  2. Calculate all the financial rates by itself, or ask the user for their preferred rates, including cost of debt, cost of equity (CAPM), cost of capital (WACC), etc.
  3. Handle any misinput from the user without breaking or requiring the restarting the program 
  

@@ -37,3 +37,6 @@
   2. The python file has been cleaned up in terms of the comments, but the codes (variable names, functions, etc.) are the same as the jupyter notebook version
   3. __HOWEVER__, the the __first two cells__ in the jupyter notebook version are __wrapped together in a while loop__ in the python version. This is purely for handling the the 1st issue mentioned
   in the limitations of the calculator. The rest is the same. 
+  
+  ## How to try the program
+  The best way to try the program without needing to have an IDE is to download the DFCF Stock Valuation Calculator.**ipynb** file and run it with [Google Colab]  (https://research.google.com/colaboratory/)

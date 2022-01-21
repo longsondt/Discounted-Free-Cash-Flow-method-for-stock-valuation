@@ -39,4 +39,4 @@
   in the limitations of the calculator. The rest is the same. 
   
   ## How to try the program
-  The best way to try the program without needing to have an IDE is to download the DFCF Stock Valuation Calculator.**ipynb** file and run it with [Google Colab]  (https://research.google.com/colaboratory/)
+  The best way to try the program without needing to have an IDE is to download the DFCF Stock Valuation Calculator.**ipynb** file and run it with [Google Colab](https://research.google.com/colaboratory/).
